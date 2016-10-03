@@ -1,8 +1,0 @@
-{ 
-  "AccessLog": {
-    "Enabled": true,
-    "S3BucketName": "329219789857-soc-logs",
-    "EmitInterval": 5,
-    "S3BucketPrefix": "ELB-logs/core-services"
-  }
-}
